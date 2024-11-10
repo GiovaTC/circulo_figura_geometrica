@@ -4,9 +4,9 @@ class Program
 {
     static void Main()
     {
-        int radio = 10;
+        int radio = 20;
         double aspectRatio = 2.0;
-        double precision = 0.5;
+        double precision = 2.5;
 
         for (int y = -radio; y <= radio; y++)
         {
